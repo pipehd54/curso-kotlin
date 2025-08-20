@@ -67,3 +67,14 @@ fun main() {
     val total = numberOfAdults + numberOfKids
     println("The total party size is: $total")
 }*/
+
+/*
+fun birthdayGreeting(name: String): String {
+    val nameGreeting = "Happy Birthday, Rover!"
+    val ageGreeting = "You are now 5 years old!"
+    return "$nameGreeting\n$ageGreeting"
+}
+
+fun birthdayGreeting(name: String = "Rover", age: Int): String {
+    return "Happy Birthday, $name! You are now $age years old!"
+}*/
